@@ -1,7 +1,7 @@
 # lhcx_luna 项目仅供学习
   
 ## 功能:  
-简简单单刷贡献
+灵魂潮汐卢纳战线简简单单刷贡献
 ## 环境:  
 - 运行环境：[开发助手Android](https://wws.lanzoui.com/iX7FTdqiuqd "点击下载")
 ## 说明: 
