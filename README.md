@@ -10,4 +10,4 @@
 - 重新打开"开发助手"并运行"lhcx_luna.xsp"出现一个小型悬浮窗
 - 在选章界面或中途点击悬浮窗开启脚本。
 ## 下载
-- 运行环境：[脚本和运行平台](https://github.com/mirrorb/lhcx_luna/releases/tag/v1.1 "点击下载")
+- 脚本和平台：[下载页面](https://github.com/mirrorb/lhcx_luna/releases/tag/v1.1 "前往下载")
